@@ -58,7 +58,7 @@ function App() {
           <p>Wishing you joy, peace, and success in the coming year!</p>
           <Button onClick={handleMyWish} text="Create wish with your name" />
         </div>}
-
+          <a href='https://www.linkedin.com/in/rohit-kumar-303990117' target="_blank" rel="noreferrer">Contact Me</a>
       </div>
       <canvas id="confetti-canvas"></canvas>
     </div>
